@@ -23,6 +23,7 @@ def solve_maze():
  [Jigsaw Karel Demo](https://www.youtube.com)
  
 <h2>Stone Mason Karel</h2>
+
 <b>Description:</b>Stone Mason Karel rebuilds a series of columns along a path.
 <br/><b>Code:</b>
 
