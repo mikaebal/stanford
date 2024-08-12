@@ -13,7 +13,7 @@ This repository contains all the coding assignments completed during the Stanfor
 
 - <b>macOS Sonoma</b> (2024)
 
-## Table of Contents
+<h2>Table of Contents</h2>
 
 - [Week 1](Week1/README.md)
   - [Jigsaw Karel](Week1/README.md#jigsaw-karel)
