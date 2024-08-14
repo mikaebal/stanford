@@ -1,7 +1,9 @@
 <h1>Stanford Code in Place</h1>
 
 <h2>Description</h2>
-This repository contains all the coding assignments and my final project completed during the Stanford Code in Place program, organized by week. These assignments focus on foundational programming concepts using Python, including problem-solving, control structures, functions, and more. Each week’s folder includes both the source code and supplementary materials, such as images or videos demonstrating the program's output. The goal of these assignments is to solidify understanding of Python programming through practical, hands-on exercises.
+This repository contains all the programming challenges and my final project completed during the Stanford Code in Place program, organized by week. These tasks focus on foundational programming concepts using Python, including problem-solving, control flow, data structures, interactive graphical programs, console programming, and debugging code. 
+
+</br>Each week’s folder includes both the source code and supplementary materials, such as images or videos demonstrating the program's output. Through a progressive, week-by-week learning approach, I deepened my understanding of Python and applied these skills to create a comprehensive final project that integrates everything I learned.
 
 <h2>Languages and Utilities Used</h2>
 
@@ -12,6 +14,10 @@ This repository contains all the coding assignments and my final project complet
 <h2>Environments Used</h2>
 
 - <b>macOS Sonoma</b> (2024)
+  
+<h2>Overview</h2>
+
+Each folder contains the assignments completed during that week. Click on the links to view the details of each assignment, including code and image or video demonstrations.
 
 <h2>Table of Contents</h2>
 
@@ -34,11 +40,9 @@ This repository contains all the coding assignments and my final project complet
 - [Week 6](Week6/README.md)
   - [Baby Snake](Week6/README.md#baby-snake)
 - [Final Project](Week7-Final-Project/README.md)
-  - [Interactive Notepad](Final/README.md#interactive-notepad)
+  - [Interactive Notepad](Week7-Final-Project/README.md#interactive-notepad)
 
-## Overview
-
-Each week's folder contains the assignments completed during that week. Click on the links above to view the details of each assignment, including code and video demonstrations.
+<!--
 <h2>Program walk-through:</h2>
 
 <p align="center">
@@ -58,3 +62,4 @@ Track progress and version control using GitHub:  <br/>
 <img src="https://i.imgur.com/your_image_link_here.png" height="80%" width="80%" alt="GitHub Version Control"/>
 <br />
 <br />
+--!>
