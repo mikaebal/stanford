@@ -24,11 +24,16 @@ def main():
 if __name__ == '__main__':
     main()
 ```
- [Demo](https://www.youtube.com)
- 
+
+<b>Result:</b>
+<p>
+<img src="https://i.imgur.com/FyVdvxf.jpeg" height="80%" width="80%" alt="Code Challenge Result"/>
+</p>
+
+<br/>
 <h2>Multiply Two Numbers</h2>
 
-<b>Description:</b>A program that takes two numbers as input and returns their product.
+<b>Description:</b> A program that takes two numbers as input and returns their product.
 <br/><b>Code:</b>
 
 ```python
@@ -55,7 +60,12 @@ def main():
 if __name__ == '__main__':
     main()
 ```
- [Demo](https://www.youtube.com)
+
+<b>Result:</b>
+
+https://github.com/user-attachments/assets/3c24375d-2fea-469b-a58f-1d43e1a20570
+
+<br/>
 
 <h2>Joke Bot</h2>
 
@@ -77,7 +87,13 @@ def main():
 if __name__ == "__main__":
     main()
 ```
- [Demo](https://www.youtube.com)
+
+<b>Result:</b>
+
+https://github.com/user-attachments/assets/19325f7e-1e78-4ff0-a328-45b03904f441
+
+
+<br/>
 
 
  <h2>Double It</h2>
@@ -105,5 +121,9 @@ def main():
 if __name__ == '__main__':
     main()
 ```
- [Demo](https://www.youtube.com)
+
+<b>Result:</b>
+<p>
+<img src="https://i.imgur.com/FN36DjG.png" height="80%" width="80%" alt="Code Challenge Result"/>
+</p>
  
