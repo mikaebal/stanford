@@ -49,5 +49,8 @@ def draw_square_patch(canvas, start_x, start_y):
 if __name__ == '__main__':
     main()
 ```
- [Demo](https://www.youtube.com)
+<b>Result:</b>
+<p>
+<img src="https://i.imgur.com/H7XdmEm.png" height="80%" width="80%" alt="Code Challenge Result"/>
+</p>
 
