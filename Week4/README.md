@@ -28,8 +28,13 @@ def main():
 if __name__ == '__main__':
     main()
 ```
- [Demo](https://www.youtube.com)
 
+<b>Result:</b>
+<p>
+<img src="https://i.imgur.com/gz8iZBk.png" height="80%" width="80%" alt="Code Challenge Result"/>
+</p>
+
+</br>
  
 <h2>Draw Flag</h2>
 
@@ -63,5 +68,9 @@ def draw_rectangle(canvas, center_x, center_y, size, color):
 if __name__ == '__main__':
     main()
 ```
- [Demo](https://www.youtube.com)
- 
+
+<b>Result:</b>
+<p>
+<img src="https://i.imgur.com/52U6v0F.png" height="80%" width="80%" alt="Code Challenge Result"/>
+</p>
+
