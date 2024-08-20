@@ -20,7 +20,12 @@ def solve_maze():
             turn_left()
     # Additional code logic here
 ```
- [Jigsaw Karel Demo](https://www.youtube.com)
+
+<b>Result:</b>
+
+https://github.com/user-attachments/assets/5839239d-5694-4c22-ae75-7aa6f427d64f
+
+<br/>
  
 <h2>Stone Mason Karel</h2>
 
@@ -60,6 +65,9 @@ def move_to_wall():
     while front_is_clear():
         move()
 ```
- [Demo](https://www.youtube.com)
+<b>Result:</b>
+
+![ezgif-7-225fb41a8b](https://github.com/user-attachments/assets/98a5a6a4-53c9-4cd8-b4d9-c14f11d55e8a)
+
 
  
