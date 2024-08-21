@@ -5,6 +5,8 @@ This repository contains all the programming challenges and my final project com
 
 </br>Each week’s folder includes both the source code and supplementary materials, such as images or videos demonstrating the program's output. Through a progressive, week-by-week learning approach, I deepened my understanding of Python and applied these skills to create a comprehensive final project that integrates everything I learned.
 
+[Certificate](https://codeinplace.stanford.edu/cip3/certificate/clr2kv)
+
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python</b>
