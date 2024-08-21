@@ -23,9 +23,9 @@ def solve_maze():
 
 <b>Result:</b>
 
-https://github.com/user-attachments/assets/5839239d-5694-4c22-ae75-7aa6f427d64f
+![ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/de9870d0-9af8-4316-9c61-789c8f9ab75a)
 
-<br/>
+</br>
  
 <h2>Stone Mason Karel</h2>
 
@@ -68,6 +68,3 @@ def move_to_wall():
 <b>Result:</b>
 
 ![ezgif-7-225fb41a8b](https://github.com/user-attachments/assets/98a5a6a4-53c9-4cd8-b4d9-c14f11d55e8a)
-
-
- 
