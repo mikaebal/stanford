@@ -26,7 +26,30 @@ def solve_maze():
 ![ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/de9870d0-9af8-4316-9c61-789c8f9ab75a)
 
 </br>
- 
+
+<h2>2023 Karel</h2>
+
+<b>Description:</b> Karel places 20 and 23 beepers to create the year 2023 while ending facing East to the right of the 23 beepers.</b>
+
+<br/><b>Code:</b>
+
+```python
+def main():
+    for i in range(20):
+        put_beeper()
+    move()
+    for i in range(23): 
+        put_beeper()
+    move()
+        
+if __name__ == '__main__':
+    main()
+```
+
+<b>Result:</b>
+
+</br> 
+
 <h2>Stone Mason Karel</h2>
 
 <b>Description:</b>Stone Mason Karel rebuilds a series of columns along a path.
