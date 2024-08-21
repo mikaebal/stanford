@@ -3,7 +3,8 @@
 <h2>Interactive Notepad</h2>
 
 <b>Description:</b> This project creates an interactive digital notepad using the Canvas module. The notepad is styled with a border, pages, and lined paper. Users can "write" on the notepad by moving their mouse, which draws small circles representing pen strokes. The program continuously tracks the mouse position within the notepad's boundaries, allowing for smooth and responsive interaction, simulating the experience of writing on a physical notepad.</b>
-<br/><b>Code:</b>
+
+<p><b>Code:</b></p>
 
 ```python
 from graphics import Canvas
@@ -54,5 +55,9 @@ if __name__ == "__main__":
 if __name__ == "__main__":
     main()
 ```
- [Demo](https://www.youtube.com)
+
+<b>Result:</b>
+    
+![ezgif com-speed (1)](https://github.com/user-attachments/assets/29bc8436-ba6f-4719-8e64-e74c253f9534)
+![ezgif com-speed (2)](https://github.com/user-attachments/assets/9a47a3a7-6d6f-4784-b176-68d935c57eaf)
 
