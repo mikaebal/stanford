@@ -59,5 +59,3 @@ if __name__ == "__main__":
 <b>Result:</b>
     
 ![ezgif com-speed (1)](https://github.com/user-attachments/assets/29bc8436-ba6f-4719-8e64-e74c253f9534)
-![ezgif com-speed (2)](https://github.com/user-attachments/assets/9a47a3a7-6d6f-4784-b176-68d935c57eaf)
-
