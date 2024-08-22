@@ -31,7 +31,7 @@ def solve_maze():
 
 <b>Description:</b> Karel places 20 and 23 beepers to create the year 2023 while ending facing East to the right of the 23 beepers.</b>
 
-<br/><b>Code:</b>
+<b>Code:</b>
 
 ```python
 def main():
