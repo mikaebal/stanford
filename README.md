@@ -1,9 +1,9 @@
 <h1>Stanford Code in Place</h1>
 
 <h2>Description</h2>
-This repository contains all the programming challenges and my final project completed during the Stanford Code in Place program, organized by week. These tasks focus on foundational programming concepts using Python, including problem-solving, control flow, data structures, interactive graphical programs, console programming, and debugging code. 
+This repository includes all programming challenges and the final project from the Stanford Code in Place program, organized by week. The tasks cover foundational Python concepts such as problem-solving, control flow, data structures, and debugging.
 
-</br>Each week’s folder includes both the source code and supplementary materials, such as images or videos demonstrating the program's output. Through a progressive, week-by-week learning approach, I deepened my understanding of Python and applied these skills to create a comprehensive final project that integrates everything I learned.
+</br>Each week’s folder contains source code and supplementary materials, including images and videos of the program's result. The progressive learning approach enhanced my Python skills, culminating in a final project that integrates all concepts learned.
 
 - [Certificate](https://codeinplace.stanford.edu/cip3/certificate/clr2kv)
 
@@ -19,7 +19,7 @@ This repository contains all the programming challenges and my final project com
   
 <h2>Overview</h2>
 
-Each folder contains the assignments completed during that week. Click on the links to view the details of each assignment, including code and image or video demonstrations.
+Folders are organized by week, containing coding challenges, source code, and images or videos of the result. Click to view details.
 
 <h2>Table of Contents</h2>
 
