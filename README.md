@@ -25,6 +25,7 @@ Each folder contains the assignments completed during that week. Click on the li
 
 - [Week 1](Week1/README.md)
   - [Jigsaw Karel](Week1/README.md#jigsaw-karel)
+  - [2023 Karel](Week1/README.md#2023-karel)
   - [Stone Mason Karel](Week1/README.md#stone-mason-karel)
 - [Week 2](Week2/README.md)
   - [Fill Karel](Week2/README.md#fill-karel)
