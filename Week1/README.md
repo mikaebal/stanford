@@ -6,19 +6,41 @@
 <br/><b>Code:</b>
 
 ```python
-def solve_maze():
-    while front_is_clear():
-        move()
+def main():
+    """
+    Karel organizes her world by putting a misplaced beeper perfectly back into its place within a puzzle of organized beepers.
+    Karel then returns back to her original corner, pridefully admiring her accomplishment. 
+    """
+    move()
+    move()
+    fill_puzzle()
+    
+def fill_puzzle():
+    pick_beeper()
+    move()
     turn_left()
-    while right_is_clear():
-        turn_right()
-        move()
-        if right_is_clear():
-            turn_right()
-            move()
-        else:
-            turn_left()
-    # Additional code logic here
+    move()
+    move()
+    put_beeper()
+    return_karel()
+    
+def return_karel():
+    turn_left()
+    turn_left()
+    move()
+    move()
+    turn_left()
+    turn_left()
+    turn_left()
+    move()
+    move()
+    move()
+    turn_left()
+    turn_left()
+
+if __name__ == '__main__':
+    main()
+    
 ```
 
 <b>Result:</b>
