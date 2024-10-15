@@ -2,8 +2,7 @@
 
 <h2>Jigsaw Karel</h2>
 
-<b>Description: </b>Jigsaw Karel solves a maze by following a set of predefined rules, picking up the last beeper, 
-    placing it in the correct spot, and returning to the starting position in the bottom left corner.</b>
+<b>Description: </b>Jigsaw Karel solves a maze, places the last beeper in the correct spot, and returns to the starting position.</b>
 <br/><b>Code:</b>
 
 ```python
