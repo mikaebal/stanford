@@ -2,45 +2,60 @@
 
 <h2>Jigsaw Karel</h2>
 
-<b>Description:</b> Jigsaw Karel solves a maze by following a set of predefined rules.</b>
+<b>Description: </b>Jigsaw Karel solves a maze by following a set of predefined rules, picking up the last beeper, 
+    placing it in the correct spot, and returning to the starting position in the bottom left corner.</b>
 <br/><b>Code:</b>
 
 ```python
+
 def main():
     """
     Karel organizes her world by putting a misplaced beeper perfectly back into its place within a puzzle of organized beepers.
     Karel then returns back to her original corner, pridefully admiring her accomplishment. 
     """
-    move()
-    move()
-    fill_puzzle()
+    move_to_beeper()
+    place_beeper_correctly()
+    return_to_start()
     
-def fill_puzzle():
+def move_to_beeper():
+    """Moves Karel to the location of the beeper."""
+    move()
+    move()
+
+def place_beeper_correctly():
+    """Karel picks up the beeper and places it in the correct spot in the puzzle."""
     pick_beeper()
     move()
     turn_left()
     move()
     move()
     put_beeper()
-    return_karel()
-    
-def return_karel():
-    turn_left()
-    turn_left()
+
+def return_to_start():
+    """Karel returns to the starting position."""
+    turn_around()
     move()
     move()
-    turn_left()
-    turn_left()
-    turn_left()
+    turn_right()
     move()
     move()
     move()
+    turn_around()
+
+def turn_around():
+    """Turns Karel around by 180 degrees."""
+    turn_left()
+    turn_left()
+
+def turn_right():
+    """Turns Karel to the right."""
+    turn_left()
     turn_left()
     turn_left()
 
 if __name__ == '__main__':
     main()
-    
+
 ```
 
 <b>Result:</b>
