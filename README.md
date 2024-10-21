@@ -3,7 +3,7 @@
 <h2>Description</h2>
 This repository includes all programming challenges and the final project from the Stanford Code in Place program, organized by week. The tasks cover foundational Python concepts such as problem-solving, control flow, data structures, and debugging.
 
-</br>The progressive learning approach enhanced my Python skills, culminating in a final project that integrates all concepts learned.
+<br>The progressive learning approach enhanced my Python skills, culminating in a final project that integrates all concepts learned.
 
 - [Certificate](https://codeinplace.stanford.edu/cip3/certificate/clr2kv)
 
