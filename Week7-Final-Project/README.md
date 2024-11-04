@@ -1,10 +1,10 @@
-<h1>Week 7 Final Project</h1>
+<h1>🌟 Final Project</h1>
 
-<h2>Interactive Notepad</h2>
+<h2>🗒️✍️ Interactive Notepad</h2>
 
-<b>Description:</b> This project creates an interactive digital notepad using the Canvas module. The notepad is styled with a border, pages, and lined paper. Users can "write" on the notepad by moving their mouse, which draws small circles representing pen strokes. The program continuously tracks the mouse position within the notepad's boundaries, allowing for smooth and responsive interaction, simulating the experience of writing on a physical notepad.</b>
+<b>📝 Description:</b> For my final project, I developed an interactive digital notepad using the Canvas module. It features a styled border and lined paper, allowing users to draw by moving their mouse, which generates small circles to simulate pen strokes. The notepad smoothly tracks mouse movements, mimicking the experience of writing on paper.</b>
 
-<p><b>Code:</b></p>
+<p><b>👩🏻‍💻 Code:</b></p>
 
 ```python
 from graphics import Canvas
@@ -54,6 +54,6 @@ if __name__ == "__main__":
     main()
 ```
 
-<b>Result:</b>
+<b>✨ Result:</b>
     
 ![ezgif com-speed (1)](https://github.com/user-attachments/assets/29bc8436-ba6f-4719-8e64-e74c253f9534)
