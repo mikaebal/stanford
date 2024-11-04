@@ -1,27 +1,27 @@
-<h1>Stanford Code in Place</h1>
+<h1>🌲 Stanford Code in Place</h1>
 
-<h2>Description</h2>
-This repository includes all programming challenges and the final project from the Stanford Code in Place program, organized by week. The tasks cover foundational Python concepts such as problem-solving, control flow, data structures, and debugging.
+<h2>📝 Description</h2>
+This repository includes all programming challenges and the final project from the Stanford Code in Place program, organized by week. The tasks cover foundational Python concepts such as <b>problem-solving, control flow, data structures, console programming, and debugging.</b>
 
 <br>The progressive learning approach enhanced my Python skills, culminating in a final project that integrates all concepts learned.
 
 - [Certificate](https://codeinplace.stanford.edu/cip3/certificate/clr2kv)
 
-<h2>Languages and Utilities Used</h2>
+<h2>🛠️ Languages and Utilities Used</h2>
 
-- <b>Python</b>
-- <b>Stanford Code in Place IDE</b> ([Stanford IDE](https://codeinplace.stanford.edu/cip3/ide))
-- <b>GitHub</b>
+- Python
+    - Karel, Tkinter
+- Stanford [IDE](https://codeinplace.stanford.edu/cip3/ide)
 
-<h2>Environments Used</h2>
+<h2>💻 Environments Used</h2>
 
 - <b>macOS Sonoma</b> (2024)
   
-<h2>Overview</h2>
+<h2>🌐 Overview</h2>
 
 Folders are organized by week, containing coding challenges, source code, and images or videos of the result. Click to view details.
 
-<h2>Table of Contents</h2>
+<h2>📖 Table of Contents</h2>
 
 - [Week 1](Week1/README.md)
   - [Jigsaw Karel](Week1/README.md#jigsaw-karel)
